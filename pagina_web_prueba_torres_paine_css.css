@@ -1,5 +1,5 @@
 body{
-    background-color: pink;
+    background-color: yellowgreen;
 }
 
 #seleccion{
@@ -21,4 +21,26 @@ body{
 .imagenes{
     width: 40%;
     height: 40%;
+    margin-left: 35%;
+    
+}
+
+#ref4{
+    float: left;
+    height: 15%;
+    width: 15%;
+    margin-left: 20px;
+}
+
+#ref5{
+    margin-left: 20px;
+}
+
+#refugios4-5{
+    margin-left: 25%;
+}
+
+#tel_contacto{
+    margin-top: 20px;
+    margin-left: 35%;
 }
